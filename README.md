@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @laurinpenland
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning how to improve Duke Libraries' platform for finding aids, which is based on ArcLight and Blacklight (open source projects)
-- 💞️ I’m looking to collaborate on ArcLight, Blacklight, Angular projects
+- 🌱 I’m currently learning new frameworks such as Rails and Django
+- 💞️ I’m looking to collaborate on projects that empower users with knowledge
 - 📫 How to reach me laurinpenland@gmail.com
 
 <!---
